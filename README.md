@@ -1,6 +1,6 @@
 ### Hello, welcome to my profile :house:
 
-I'm a very curious Chemystry Engeneer :mortar_board: who love learning new things and getting the most information possible about everything :microscope:
+I'm a very curious Chemystry Engineer :mortar_board: who love learning new things and getting the most information possible about everything :microscope:
     
 I'm in love with Data Science :chart_with_upwards_trend: and I'm starting to run some codes and making my first analysis :blush:
 
