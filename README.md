@@ -4,8 +4,8 @@ I'm a very curious Chemistry Engineer :mortar_board: who love learning new thing
     
 I'm in love with Data Science :chart_with_upwards_trend: and I'm starting to run some codes and making my first analysis :blush:
 
-- 🔭 I’m currently working on a Machine Learning Project
-- 🌱 I’m currently learning Regression, Classification and Clustering Models
+- 🔭 I’m currently working on a Imbalanced Classification Problem using Neural Networks
+- 🌱 I’m currently learning Deep Learning
 - 💬 Ask me about anything you want, except football (Vasco and United are not doing so well right now)
 - :computer: Linkedin: https://www.linkedin.com/in/luanrdutra/
 - ⚡ Fun fact: I'll simply say "Ah cara" for almost everything and I actually enjoy to listen some :musical_keyboard: and watch :tennis:
