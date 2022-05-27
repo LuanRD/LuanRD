@@ -2,7 +2,7 @@
 
 I'm a very curious Chemistry Engineer :mortar_board: who love learning new things and getting the larger amount of information possible about everything :microscope:
     
-I'm in love with Data Science :chart_with_upwards_trend: and I'm starting to run some codes and making my first analysis :blush:
+I'm in love with Data Science :chart_with_upwards_trend: and I'm starting to run some codes and making some cool analysis :blush:
 
 - 🔭 I’m currently working on deploying a Machine Learning Model
 - 🌱 I’m currently learning API's deploy and Cloud Services
